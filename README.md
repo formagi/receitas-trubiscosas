@@ -1,4 +1,4 @@
-# Receitas trubiscas
+# Receitas trubiscosas
 
 Repositório criado para compartilhar receitas que faço.
 Sim, são receitas culinárias mesmo, nada demais.
